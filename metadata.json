@@ -1,0 +1,6 @@
+{
+  "name": "Vaibhav Lodhi KillApp",
+  "description": "Powerful No-Root Android System Optimizer & Firewall: Force stop running RAM apps, auto-freeze restart blocker to save battery & memory, and per-app internet connection blocker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
